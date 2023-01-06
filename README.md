@@ -19,13 +19,8 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="mailto:bernardogulartekirsch@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bernardogulartekirsch@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/bernardokirsch">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bernardokirsch/">
-    </a>
+    <a href = "mailto:bernardogulartekirsch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/bernardokirsch" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ## GitHub Status 📈 <br>
@@ -33,7 +28,7 @@
 <p align="center">
   <a href="https://github.com/bernardokirsch">
     <img
-      width="50%"
+      width="42%"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardokirsch&count_private=true&text_color=ffffff&bg_color=20232a&layout=compact&hide_border=true&langs_count=4"
     />
