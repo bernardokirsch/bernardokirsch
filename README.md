@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
-- 👨‍💻 Trainee Developer at the Data & Analytics Studio at **Compass UOL**
+- 👨‍💻 Trainee Developer at the Data & Analytics Studio at [**Compass UOL**](https://compass.uol/en/home/)
 - 👨‍🎓 Currently studying the 7th semester of Computer Science at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 📚 I'm currently studying Python, AWS Cloud Computing, SQL and API's.
 - ♟️ Chess Player
