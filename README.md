@@ -1,19 +1,21 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
-- 👨‍💻 Trainee Developer at the Data & Analytics Studio at [**Compass UOL**](https://compass.uol/en/home/)
-- 👨‍🎓 Currently studying the 7th semester of Computer Science at Instituto Federal Farroupilha - Campus Frederico Westphalen
-- 📚 I'm currently studying Python, AWS Cloud Computing, SQL and API's.
+- 👨‍💻 Trainee Data Engineer at [**Compass UOL**](https://compass.uol/en/home/)
+- ☁️ AWS Cloud Practitioner Certified
+- 👨‍🎓 Currently studying the 8th semester of Computer Science at Instituto Federal Farroupilha - Campus Frederico Westphalen
+- 📚 I'm currently studying Python, AWS Cloud Computing, Spark, SQL and Scrum.
 - ♟️ Chess Player
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Bernardo-AWS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Bernardo-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Bernardo-C" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Bernardo-Docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Bernardo-Git" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Bernardo-Jupyter" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Bernardo-MySQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Bernardo-PostgreSQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  <img align="center" alt="Bernardo-AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Bernardo-C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Bernardo-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Bernardo-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Bernardo-MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Bernardo-PostgreSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
 ## Contact :iphone:
