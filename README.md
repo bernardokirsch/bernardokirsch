@@ -1,8 +1,8 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
-- 👨‍💻 Trainee Data Engineer at [**Compass UOL**](https://compass.uol/en/home/)
+- 👨‍💻 Data Engineer at [**Compass UOL**](https://compass.uol/en/home/)
 - ☁️ AWS Cloud Practitioner Certified
-- 👨‍🎓 Currently studying the 8th semester of Computer Science at Instituto Federal Farroupilha - Campus Frederico Westphalen
+- 👨‍🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 📚 I'm currently studying Python, AWS Cloud Computing, Spark, SQL and Scrum.
 - ♟️ Chess Player
 
