@@ -8,11 +8,11 @@
 - ♟️ Chess Player
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Bernardo-SolutionsArchitectAssociate" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  <img align="center" alt="Bernardo-SolutionsArchitectAssociate" height="70" width="70" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Bernardo-AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Bernardo-DBT" height="100" width="40" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">
+  <img align="center" alt="Bernardo-DBT" height="40" width="100" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">
   <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bernardo-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Bernardo-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
