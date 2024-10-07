@@ -43,7 +43,4 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/bernardokirsch/count.svg" />
  </p>
-
-## LinkedIn <br>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bernardokirsch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/bernardokirsch?trk=profile-badge"></a></div>
               
