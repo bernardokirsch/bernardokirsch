@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
-- 👨‍💻 Data Engineer at [**Compass.UOL**](https://compass.uol/en/home/)
+- 👨‍💻 Data Engineer at [**Compass UOL**](https://compass.uol/en/home/)
 - ☁️ 2x AWS Certified (AWS Certified Cloud Practitioner and AWS Certified Solutions Architect - Associate)
 - 🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 👨‍🎓 Postgraduate student in Data Engineering at PUC Minas
