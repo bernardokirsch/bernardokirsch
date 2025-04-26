@@ -12,7 +12,7 @@
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Bernardo-AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Bernardo-DBT" height="40" width="100" src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431112.png">
+  <img align="center" alt="Bernardo-DBT" height="40" width="100" src="https://docs.getdbt.com/img/dbt-logo-light.svg">
   <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bernardo-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Bernardo-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
