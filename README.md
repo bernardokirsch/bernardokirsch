@@ -1,14 +1,15 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
 - 👨‍💻 Data Engineer at [**Blu**](https://blu.com.br/)
-- ☁️ 2x AWS Certified (AWS Certified Cloud Practitioner and AWS Certified Solutions Architect - Associate)
+- ☁️ 3x AWS Certified (AWS Certified Solutions Architect - Associate, AWS Certified AI Practitioner and AWS Certified Cloud Practitioner)
 - 🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 👨‍🎓 Postgraduate student in Data Engineering at PUC Minas
-- 📚 I'm currently studying Python, SQL, AWS Cloud Computing, PySpark, Spark, DBT...
+- 📚 I'm currently studying Python, SQL, Apache Airflow, DBT, AWS Cloud Computing, PySpark, Spark...
 - ♟️ Chess Player
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bernardo-SolutionsArchitectAssociate" height="70" width="70" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+  <img align="center" alt="Bernardo-IAPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Bernardo-AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
