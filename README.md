@@ -11,7 +11,6 @@
   <img align="center" alt="Bernardo-SolutionsArchitectAssociate" height="70" width="70" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
   <img align="center" alt="Bernardo-IAPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-  <img align="center" alt="Bernardo-AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Bernardo-DBT" height="30" width="80" src="https://docs.getdbt.com/img/dbt-logo.svg">
   <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
@@ -39,9 +38,3 @@
     />
   </a>
 </p>
-
- ## Total Visits :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/bernardokirsch/count.svg" />
- </p>
-              
