@@ -12,9 +12,9 @@
   <img align="center" alt="Bernardo-IAPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Bernardo-DBT" height="30" width="80" src="https://docs.getdbt.com/img/dbt-logo.svg">
-  <img align="center" alt="Bernardo-Airflow" height="60" width="80" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png">
-  <img align="center" alt="Bernardo-Airbtye" height="60" width="80" src="https://images.seeklogo.com/logo-png/46/1/airbyte-logo-png_seeklogo-465321.png">
+  <img align="center" alt="Bernardo-DBT" height="30" width="80" src="https://www.getdbt.com/_next/image?url=%2Fimg%2Flogos%2Fdbt-logo.svg&w=384&q=75">
+  <img align="center" alt="Bernardo-Airflow" height="60" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg">
+  <img align="center" alt="Bernardo-Airbyte" height="60" width="80" src="https://cdn.prod.website-files.com/605e01bc25f7e19a82e74788/609c1197f45eaeee6160a4d5_airbyte-webclip.png">
   <img align="center" alt="Bernardo-PostgreSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bernardo-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
