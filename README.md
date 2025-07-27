@@ -13,11 +13,11 @@
   <img align="center" alt="Bernardo-CloudPractitioner" height="70" width="70" src="https://images.credly.com/size/1080x1080/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Bernardo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Bernardo-DBT" height="30" width="80" src="https://docs.getdbt.com/img/dbt-logo.svg">
+  <img align="center" alt="Bernardo-Airflow" height="60" width="80" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png">
+  <img align="center" alt="Bernardo-Airbtye" height="60" width="80" src="https://images.seeklogo.com/logo-png/46/1/airbyte-logo-png_seeklogo-465321.png">
+  <img align="center" alt="Bernardo-PostgreSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Bernardo-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bernardo-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Bernardo-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Bernardo-MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Bernardo-PostgreSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
 ## Contact :iphone:
