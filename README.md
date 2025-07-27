@@ -4,7 +4,7 @@
 - ☁️ 3x AWS Certified (AWS Certified Solutions Architect - Associate, AWS Certified AI Practitioner and AWS Certified Cloud Practitioner)
 - 🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 👨‍🎓 Postgraduate student in Data Engineering at PUC Minas
-- 📚 I'm currently studying Python, SQL, Apache Airflow, DBT, AWS Cloud Computing, PySpark, Spark...
+- 📚 I'm currently studying Python, SQL, Apache Airflow, DBT, Airbyte, AWS, PySpark, Spark...
 - ♟️ Chess Player
 
 <div style="display: inline_block" align="center"><br>
