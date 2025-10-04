@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Bernardo here!
 
-- 👨‍💻 Data Engineer at [**Blu**](https://blu.com.br/)
+- 👨‍💻 Data Engineer at [**BRQ Digital Solutions**](https://www.brq.com/) | [**Itaú Unibanco**](https://www.itau.com.br/)
 - ☁️ 3x AWS Certified (AWS Certified Solutions Architect - Associate, AWS Certified AI Practitioner and AWS Certified Cloud Practitioner)
 - 🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
 - 👨‍🎓 Postgraduate student in Data Engineering at PUC Minas
