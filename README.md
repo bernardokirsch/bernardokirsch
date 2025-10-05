@@ -3,7 +3,7 @@
 - 👨‍💻 Data Engineer at [**BRQ Digital Solutions**](https://www.brq.com/) | [**Itaú Unibanco**](https://www.itau.com.br/)
 - ☁️ 3x AWS Certified (AWS Certified Solutions Architect - Associate, AWS Certified AI Practitioner and AWS Certified Cloud Practitioner)
 - 🎓 Computer Scientist at Instituto Federal Farroupilha - Campus Frederico Westphalen
-- 👨‍🎓 Postgraduate student in Data Engineering at PUC Minas
+- 👨‍🎓 Data Engineering Specialist from PUC Minas
 - 📚 I'm currently studying Python, SQL, Apache Airflow, DBT, Airbyte, AWS, PySpark, Spark...
 - ♟️ Chess Player
 
